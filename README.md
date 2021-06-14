@@ -23,6 +23,8 @@ Tableau india :
 
 
 
-  Tableau Link : 
+  Tableau usa :
+  https://public.tableau.com/views/covid-19tableu/Story1?:language=en-US&:display_count=n&:origin=viz_share_link
+  
 
-https://public.tableau.com/views/covid-19tableu/Story1?:language=en-US&:display_count=n&:origin=viz_share_link
+
